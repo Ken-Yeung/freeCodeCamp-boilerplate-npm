@@ -3,7 +3,12 @@
     "name": "Ken Yeung"
   },
   "description": "This is a server for learning from freeCodeCamp",
-  "keywords": ["Test", "Project", "Certificate"],
+  "keywords": [
+    "Test",
+    "Project",
+    "Certificate",
+    "freecodecamp"
+  ],
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
