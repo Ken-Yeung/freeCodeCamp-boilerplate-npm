@@ -2,6 +2,7 @@
   "author": {
     "name": "Ken Yeung"
   },
+  "description": "This is a server for learning from freeCodeCamp",
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
